@@ -1,0 +1,1 @@
+1. login automatically to thapar institute's authentication system for accessing internet throughout thapar.
